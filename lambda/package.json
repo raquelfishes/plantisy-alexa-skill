@@ -1,0 +1,17 @@
+{
+    "name": "plantisy-alexa-skill",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "vulnerabilities": "npm audit"
+    },
+    "author": "Raquel Peces",
+    "homepage": "https://github.com/raquelfishes/plantisy-alexa-skill",
+    "license": "MIT",
+    "dependencies": {
+      "ask-sdk-core": "^2.7.0",
+      "ask-sdk-model": "^1.27.0",
+      "dynamola": "^1.4.5"
+    }
+  }
